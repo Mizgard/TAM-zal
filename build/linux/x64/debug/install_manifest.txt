@@ -1,0 +1,12 @@
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/rick_and_morty
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/lib/libdartjni.so
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mateusz/Studia/RandM/rick_and_morty/build/linux/x64/debug/bundle/data/flutter_assets/version.json

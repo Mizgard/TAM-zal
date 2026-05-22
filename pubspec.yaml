@@ -1,0 +1,20 @@
+name: rick_and_morty_app
+description: ""
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' #
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  http: ^1.2.0
+
+  hive_ce: ^2.1.2
+  hive_ce_flutter: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
